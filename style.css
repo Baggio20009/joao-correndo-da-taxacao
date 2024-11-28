@@ -1,0 +1,110 @@
+body{
+  font-family: "Oswald", sans-serif;
+ background-color: white;
+  color: black
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+    margin: 0;
+  font-size: 35px;
+    background-image: url("fundo.png");
+    background-size: cover;
+  background-position: center;
+ background-attachment: fixed;
+  text-shadow: 4px 4px 3px black;
+    
+  
+
+  
+  
+  
+}
+
+footer{
+
+  font-family: "Rubik", sans-serif;
+  color: yellow;
+  font-weight:500;
+  font-size:25px;
+
+  
+  
+  
+  
+}
+footer a{
+  text-decoration:none;
+  color: blue;
+  
+  
+  
+  
+  
+  
+  
+}
+footer a:houver{ 
+color: grey;
+  text-decoration:underline;
+
+
+
+}
+
+button{
+  font-family: "Noto Serif", serif;
+  background-color: blue;
+  boder: 2px solid red;
+  font-size: 25px;
+  border-radius: 200;
+  margin: 20px;
+  padding: 0.5em;
+  box-shadow: 3px 3px 4px white;
+
+
+  
+  
+  
+  
+}
+button:houver{
+ background-color: purple;
+  border:2px solid green;
+  
+  
+  
+  
+  
+  
+}
+main{
+ max-width: 90%;
+  text-align: center;
+  padding: 20px;
+  flex: 1;
+  
+  
+  
+  
+  
+  
+}
+img{
+max-width:90%;  
+
+}
+
+.passo{
+ display:none;
+  
+}
+.passo.ativo{
+ display:block; 
+  
+}
+
+
+
+
+

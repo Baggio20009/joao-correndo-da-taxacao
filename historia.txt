@@ -1,0 +1,80 @@
+Você é João, um trabalhador brasileiro dedicado que ganha a vida em um escritório no centro da cidade. Todos os dias, enfrenta o trânsito caótico, o calor e a rotina exaustiva, tudo para conseguir economizar alguns trocados ao final do mês. A realidade de um proletário não é fácil, mas João sempre teve um pequeno prazer: explorar o mundo das compras online. Afinal, sites internacionais como Aliexpress e Shopee oferecem uma infinidade de produtos a preços irresistíveis, permitindo que ele sonhe com coisas que talvez nunca teria acesso aqui no Brasil.
+
+Hoje, depois de muito pesquisar, João finalmente encontrou o que procurava: um smartwatch moderno, que sempre desejou, mas nunca teve condições de comprar no Brasil. Só tem um problema: as taxas de importação e o temido Taxade, uma entidade maligna que ele sente estar sempre à espreita, pronta para aumentar o valor de qualquer pacote que chegue de fora. Cada vez que pensa na Receita Federal e no Taxade, sente um frio na espinha.
+
+Ele precisa decidir: será que compra pelo Aliexpress ou Shopee e torce para o Taxade não interferir, ou será melhor pedir para um chines safado que viaja com frequência para o exterior?
+Você é João, um trabalhador brasileiro dedicado, que ganha a vida em um escritório no centro da cidade. Todos os dias, enfrenta o trânsito caótico, o calor e a rotina exaustiva, tudo para conseguir economizar alguns trocados ao final do mês. A realidade de um proletário não é fácil, mas João sempre teve um pequeno prazer: explorar o mundo das compras online. Afinal, sites internacionais como Aliexpress e Shopee oferecem uma infinidade de produtos a preços irresistíveis, permitindo que ele sonhe com coisas que talvez nunca teria acesso aqui no Brasil.
+
+Hoje, depois de muito pesquisar, João finalmente encontrou o que procurava: um smartwatch moderno, que sempre desejou, mas nunca teve condições de comprar no Brasil. Só tem um problema: as taxas de importação. Cada vez que pensa na Receita Federal e na possibilidade de ser taxado, sente um frio na espinha. Ele precisa decidir: será que compra pelo Aliexpress ou Shopee e torce para não ser taxado, ou será melhor pedir para um amigo que viaja com frequência para o exterior?
+
+Escolhas:
+
+Botão 1: Você decide comprar diretamente pelo Aliexpress ou Shopee.
+Botão 2: Você decide comprar com um amigo.
+Passo 1: Escolha do Botão 1
+
+Ao escolher comprar pelo Aliexpress ou Shopee, João se enche de esperança. Ele adiciona o smartwatch ao carrinho e faz o pagamento, torcendo para que a remessa chegue sem problemas. Agora, resta aguardar.
+
+Escolhas:
+
+Botão 3: Você tenta um contato com o vendedor para ver se ele consegue marcar o produto como "presente", na tentativa de evitar taxas.
+Botão 4: Você aguarda pacientemente e torce para não ser taxado.
+Passo 2: Escolha do Botão 2
+
+João decide pedir ajuda a um amigo que vive viajando a trabalho. Ele explica a situação e pede para o amigo trazer o smartwatch em sua próxima viagem. O amigo aceita, mas deixa claro que pode demorar alguns meses até voltar.
+
+Escolhas:
+
+Botão 5: João decide confiar e aguardar pacientemente.
+Botão 6: João fica ansioso e decide tentar comprar ele mesmo pelo site, sem esperar o amigo.
+Passo 3: Escolha do Botão 3
+
+João manda uma mensagem para o vendedor, tentando convencê-lo a enviar o smartwatch como um "presente" de baixo valor. O vendedor diz que vai tentar ajudar, mas sem garantias.
+
+Escolhas:
+
+Botão 9: Alguns dias depois, o rastreamento mostra que o pacote chegou ao Brasil sem nenhuma menção de taxação. João sente que a sorte está ao seu lado.
+Botão 10: Ao verificar o rastreamento, João vê que o produto foi retido pela Receita Federal, e há uma taxa de importação para ser paga.
+Passo 4: Escolha do Botão 4
+
+João decide aguardar pacientemente. Após algumas semanas de espera, finalmente o pacote chega ao seu endereço sem ser taxado. Ele recebe o smartwatch e comemora! Foi uma vitória inesperada contra o sistema de taxação.
+
+Resultado: GANHOU!
+
+Passo 5: Escolha do Botão 5
+
+João decide confiar no amigo e aguardar. Meses depois, o amigo volta de viagem e entrega o smartwatch sem qualquer problema. João fica radiante e aliviado.
+
+Escolhas:
+
+Botão 7: João decide agradecer ao amigo com um almoço especial.
+Botão 8: João, empolgado, pergunta ao amigo se ele pode trazer mais alguns produtos na próxima viagem.
+Passo 6: Escolha do Botão 6
+
+Ansioso, João não consegue esperar o amigo e decide arriscar a compra sozinho pelo Aliexpress. Infelizmente, o smartwatch é retido pela Receita e a taxa de importação é alta demais para seu orçamento. Ele se vê sem alternativas e acaba desistindo do produto.
+
+Resultado: PERDEU.
+
+Passo 7: Escolha do Botão 7
+
+João agradece ao amigo com um almoço e os dois riem da situação. Ele percebe que a paciência realmente valeu a pena.
+
+Resultado: GANHOU!
+
+Passo 8: Volta ao Passo 1
+
+João agora decide comprar um segundo item e volta ao início da aventura, pensando na próxima escolha.
+
+Passo 9: Resultado da Escolha do Botão 9
+
+O produto chega em sua casa sem taxas, e João sente que é um vencedor. Ele comemora a vitória, contente por ter conseguido driblar o sistema e finalmente conseguir o item tão desejado.
+
+Resultado: GANHOU!
+
+Passo 10: Resultado da Escolha do Botão 10
+
+Infelizmente, o produto é retido e a taxa é alta demais. João desiste da compra e se conforma, pensando que é uma batalha que ele não conseguiu vencer dessa vez.
+
+Resultado: PERDEU.
+
+Essa é uma história com escolhas múltiplas onde João vive o dilema de cada consumidor brasileiro tentando evitar as famosas taxações. Em cada etapa, as escolhas e o acaso levam a diferentes desfechos, criando uma jornada cheia de expectativas, decepções e, às vezes, vitórias.

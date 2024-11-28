@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <main>
+    
+   <div class="passo ativo" id="passo-0">
+     <img src="logo.png"
+    <p>
+     Você é João, um trabalhador brasileiro dedicado que ganha a vida em um escritório no centro da cidade. Todos os dias, enfrenta o trânsito caótico, o calor e a rotina exaustiva, tudo para conseguir economizar alguns trocados ao final do mês. A realidade de um proletário não é fácil, mas João sempre teve um pequeno prazer: explorar o mundo das compras online. Afinal, sites internacionais como Aliexpress e Shopee oferecem uma infinidade de produtos a preços irresistíveis, permitindo que ele sonhe com coisas que talvez nunca teria acesso aqui no Brasil.
+
+Hoje, depois de muito pesquisar, João finalmente encontrou o que procurava: um smartwatch moderno, que sempre desejou, mas nunca teve condições de comprar no Brasil. Só tem um problema: as taxas de importação e o temido Taxade, uma entidade maligna que ele sente estar sempre à espreita, pronta para aumentar o valor de qualquer pacote que chegue de fora. Cada vez que pensa na Receita Federal e no Taxade, sente um frio na espinha.
+     Ele precisa decidir: será que compra pelo Aliexpress ou Shopee e torce para o Taxade não interferir, ou será melhor pedir para um chines safado que viaja com frequência para o exterior?
+Você é João, um trabalhador brasileiro dedicado, que ganha a vida em um escritório no centro da cidade. Todos os dias, enfrenta o trânsito caótico, o calor e a rotina exaustiva, tudo para conseguir economizar alguns trocados ao final do mês. A realidade de um proletário não é fácil, mas João sempre teve um pequeno prazer: explorar o mundo das compras online. Afinal, sites internacionais como Aliexpress e Shopee oferecem uma infinidade de produtos a preços irresistíveis, permitindo que ele sonhe com coisas que talvez nunca teria acesso aqui no Brasil.
+
+Hoje, depois de muito pesquisar, João finalmente encontrou o que procurava: um smartwatch moderno, que sempre desejou, mas nunca teve condições de comprar no Brasil. Só tem um problema: as taxas de importação. Cada vez que pensa na Receita Federal e na possibilidade de ser taxado, sente um frio na espinha. Ele precisa decidir: será que compra pelo Aliexpress ou Shopee e torce para não ser taxado, ou será melhor pedir para um amigo que viaja com frequência para o exterior?
+     </p>
+    <button class="proximo" data-proximo="1" > Você decide comprar diretamente pelo Aliexpress ou Shopee </button>
+    
+    <button class="proximo" data-proximo="2">Você decide comprar com um amigo </button>
+    </div>
+  
+   <div class="passo" id="passo-1">
+     <img src="logo.png"
+    <p>
+Ao escolher comprar pelo Aliexpress ou Shopee, João se enche de esperança. Ele adiciona o smartwatch ao carrinho e faz o pagamento, torcendo para que a remessa chegue sem problemas. Agora, resta aguardar.
+     </p>
+    <button class="proximo" data-proximo="3" > Você tenta um contato com o vendedor para ver se ele consegue marcar o produto como "presente", na tentativa de evitar taxas. </button>
+    
+    <button class="proximo" data-proximo="4">Você aguarda pacientemente e torce para não ser taxado. </button>
+
+    
+    </div>
+  
+  <div class="passo" id="passo-2">
+<img src="logo.png">
+      <p>
+      João decide pedir ajuda a um amigo que vive viajando a trabalho. Ele explica a situação e pede para o amigo trazer o smartwatch em sua próxima viagem. O amigo aceita, mas deixa claro que pode demorar alguns meses até voltar.
+  
+      </p>
+      
+      <button class="proximo" data-proximo="5">
+       João decide confiar e aguardar pacientemente. 
+      </button>
+      
+      <button class="proximo" data-proximo="6">
+        João fica ansioso e decide tentar comprar ele mesmo pelo site, sem esperar o amigo.
+      </button>
+      </div>
+      
+        <div class="passo" id="passo-5">
+<img src="logo.png">
+      <p>
+        João decide confiar no amigo e aguardar. Meses depois, o amigo volta de viagem e entrega o smartwatch sem qualquer problema. João fica radiante e aliviado.
+
+      </p>
+      
+      <button class="proximo" data-proximo="7">
+        João decide agradecer ao amigo com um almoço especial.
+      </button>
+      
+      <button class="proximo" data-proximo="8">
+        João, empolgado, pergunta ao amigo se ele pode trazer mais alguns produtos na próxima viagem.
+      </button>
+      </div>
+      
+      <div class="passo" id="passo-6">
+<img src="perdeu.png">
+      <p>
+       Ansioso, João não consegue esperar o amigo e decide arriscar a compra sozinho pelo Aliexpress. Infelizmente, o smartwatch é retido pela Receita e a taxa de importação é alta demais para seu orçamento. Ele se vê sem alternativas e acaba desistindo do produto.
+ 
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+        Reiniciar? 🕹
+      </button>
+
+      </div>
+    
+        <div class="passo" id="passo-7">
+<img src="ganhou.png">
+      <p>
+       João agradece ao amigo com um almoço e os dois riem da situação. Ele percebe que a paciência realmente valeu a pena. 
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+           Reiniciar? 🕹
+      </button>
+    
+      </div>
+      
+        <div class="passo" id="passo-8">
+<img src="logo.png">
+      <p>
+        João agora decide comprar um segundo item e volta ao início da aventura, pensando na próxima escolha.
+      </p>
+      
+      <button class="proximo" data-proximo="3">
+        Você tenta um contato com o vendedor para ver se ele consegue marcar o produto como "presente", na tentativa de evitar taxas. 
+      </button>
+      
+      <button class="proximo" data-proximo="4">
+        Você aguarda pacientemente e torce para não ser taxado. 
+      </button>
+      </div>
+      
+        <div class="passo" id="passo-3">
+<img src="logo.png">
+      <p>
+João manda uma mensagem para o vendedor, tentando convencê-lo a enviar o smartwatch como um "presente" de baixo valor. O vendedor diz que vai tentar ajudar, mas sem garantias.
+
+      </p>
+      
+      <button class="proximo" data-proximo="9">
+         Alguns dias depois, o rastreamento mostra que o pacote chegou ao Brasil sem nenhuma menção de taxação. João sente que a sorte está ao seu lado.
+      </button>
+      
+      <button class="proximo" data-proximo="10">
+     Ao verificar o rastreamento, João vê que o produto foi retido pela Receita Federal, e há uma taxa de importação para ser paga.   
+      </button>
+      </div>
+      
+    <div class="passo" id="passo-4">
+<img src="ganhou.png">
+      <p>
+      João decide aguardar pacientemente. Após algumas semanas de espera, finalmente o pacote chega ao seu endereço sem ser taxado. Ele recebe o smartwatch e comemora! Foi uma vitória inesperada contra o sistema de taxação.
+  
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+           Reiniciar? 🕹
+      </button>
+      
+      </div>
+      
+        <div class="passo" id="passo-10">
+<img src="perdeu.png">
+      <p>
+      
+Infelizmente, o produto é retido e a taxa é alta demais. João desiste da compra e se conforma, pensando que é uma batalha que ele não conseguiu vencer dessa vez.  
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+         Reiniciar? 🕹
+      </button>
+      
+          
+  </div>    
+          
+          
+          
+            <div class="passo" id="passo-9">
+<img src="ganhou.png">
+      <p>
+        O produto chega em sua casa sem taxas, e João sente que é um vencedor. Ele comemora a vitória, contente por ter conseguido driblar o sistema e finalmente conseguir o item tão desejado.
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+           Reiniciar? 🕹
+      </button>
+      
+
+      </div>
+  </main>
+<footer>
+  <p> criado por <a href="https://github.com/baggio20009">
+    Lucas Pereira Baggio</a></p>
+</footer>
+    <script src="sketch.js"></script>
+  </body>
+</html>
